@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+state_cache.json
+config.json
+*.pyc
+*.pyo
